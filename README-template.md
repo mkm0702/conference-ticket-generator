@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github - @mkm0702](https://github.com/mkm0702/conference-ticket-generator)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://conference-ticket-generator-solu.netlify.app/)
 
 
 ### Built with
